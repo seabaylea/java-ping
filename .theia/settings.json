@@ -1,0 +1,12 @@
+{
+    "navigator.exclude": {
+        "src/main/*": true,
+        "**/liberty": true,
+        "Dockerfile": true,
+        "pom.xml": true,
+        ".vscode/**": true,
+        ".theia": true,
+        "Dockerfile-buildimage": true,
+        "Jenkinsfile": true,
+    }
+}
