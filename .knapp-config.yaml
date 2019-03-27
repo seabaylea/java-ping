@@ -1,0 +1,3 @@
+project:
+  platform: java-microprofile:latest
+  config: java-microprofile:latest
